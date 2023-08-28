@@ -1,2 +1,5 @@
-
+.form1{
+	display:flex;
+	flex-direction:column;
+}
 /* Your CSS Code here. */
